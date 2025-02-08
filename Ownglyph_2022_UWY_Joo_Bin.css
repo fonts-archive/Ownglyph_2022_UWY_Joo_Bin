@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Ownglyph_2022_UWY_Joo_Bin';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Ownglyph_2022_UWY_Joo_Bin/Ownglyph_2022_UWY_Joo_Bin-Rg.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/Ownglyph_2022_UWY_Joo_Bin/Ownglyph_2022_UWY_Joo_Bin-Rg.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/Ownglyph_2022_UWY_Joo_Bin/Ownglyph_2022_UWY_Joo_Bin-Rg.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/Ownglyph_2022_UWY_Joo_Bin/Ownglyph_2022_UWY_Joo_Bin-Rg.ttf') format('truetype');
+}
