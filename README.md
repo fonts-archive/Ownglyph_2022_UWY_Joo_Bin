@@ -1,6 +1,6 @@
 # 온글잎 의청수 주빈체
 
-[배포처 바로가기](https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202302140000000000004)
+[배포처 바로가기](https://www.ownglyph.com/trial/8fd2de86-e706-4713-88bc-814d2f71d7ab)
 
 &nbsp;
 
